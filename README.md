@@ -22,8 +22,6 @@ By blending these pipelines, Project-Varuna aims to enhance the intelligence and
 I firmly believe in the power of **teamwork**. I'm always open to collaborating with like-minded individuals and teams to tackle autonomy's most challenging problems. Together, we can pool our expertise and create groundbreaking solutions that shape the future of autonomous systems.
 
 
----
-
 Feel free to explore my Project Varuna, provide feedback, or suggest collaborations. Together, we can push the boundaries of data-driven modeling and controls in challenging operating spaces and contribute to a safer, smarter, and more efficient UGVs.
 Thank you for visiting my repository—I'm excited to embark on this journey of innovation and discovery with you! ✨
 
