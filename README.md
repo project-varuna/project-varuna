@@ -18,6 +18,40 @@ Find out more at:
   
 By blending these pipelines, Project-Varuna aims to enhance the intelligence and decision-making capabilities of autonomous vehicles, pushing their operational envelope even further in diverse and challenging conditions.
 
+
+## Usage Guidelines
+
+### Data Processing
+
+To get started with data-driven modeling using Project Varuna, datasets need to be in a compatible format. For release version v1.0, training and testing datasets can be prepared in one of the following formats:
+
+- **Project Varuna Custom Format**:  
+  For mid-scale Hunter-SE data, a pre-curated dataset and the required structure can be found in this repository:  
+  [Project Varuna Datasets](https://github.com/project-varuna/Project-Varuna-Datasets).
+
+- **AutoDRIVE Format**:  
+  This format extends the AutoDRIVE dataset structure, which you can find here:  
+  [AutoDRIVE Hunter-SE Dataset](https://github.com/Tinker-Twins/AutoDRIVE-Hunter-SE-Dataset).  
+  In this format, all runs have been compiled and preprocessed to include throttle-to-velocity mapping and smoothed data. The processed dataset is available at:  
+  [AutoDRIVE Processed Datasets](https://github.com/project-varuna/AutoDRIVE-Processed-Datasets).
+
+### Using Pre-trained Models (Optional)
+
+If you'd like to use pre-trained models instead of training your own, models for the 1/5th scale Hunter SE platform are available here:  
+[Hunter-SE MMPK Models](https://github.com/project-varuna/Hunter-SE-MMPK-Models.git).
+
+### Modeling and Deployment with Project Varuna Software Kit
+
+Once your datasets are set up in one of the compatible formats, you can proceed with the Project Varuna software kit:
+
+1. **Model Dynamics**: Use the GUI to model dynamics, set motion planner parameters, and configure the linear Model Predictive Controller.
+2. **Select Reference Trajectory**: Choose the reference trajectory for your deployment.
+3. **Start Deployment**: You're all set! Simply initiate the process to begin.
+
+For detailed setup instructions and additional package information, visit:  
+[Project Varuna Autonomy Package](https://github.com/project-varuna/Project-Varuna-Autonomy-Package).
+
+
 ## 🤝 Collaboration and Contributions:
 I firmly believe in the power of **teamwork**. I'm always open to collaborating with like-minded individuals and teams to tackle autonomy's most challenging problems. Together, we can pool our expertise and create groundbreaking solutions that shape the future of autonomous systems.
 
