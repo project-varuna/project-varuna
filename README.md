@@ -1,7 +1,7 @@
 # 🌟 Welcome to Project Varuna! 🌟
 
 Hi there! 
-I'm **Ajinkya Joglekar**, a passionate Ph.D. candidate at the prestigious **Clemson University's International Center for Automotive Research (ICAR)**, nestled in the vibrant city of Greenville, SC. I'm thrilled to share my journey and research in the cutting-edge realm of on-road and off-road Uncrewed Ground Vehicle systems (UGVs). 🚗 :robot:
+I'm **Ajinkya Joglekar**, creator of Project Varuna and a passionate Ph.D. candidate at the prestigious **Clemson University's International Center for Automotive Research (ICAR)**, nestled in the vibrant city of Greenville, SC. I'm thrilled to share my journey and research in the cutting-edge realm of on-road and off-road Uncrewed Ground Vehicle systems (UGVs). 🚗 :robot:
 
 ## 🚀 About Project Varuna:
 Project Varuna is an innovative framework grounded in my research on Koopman Operator Theory. This platform distills the insights and innovations from my work into a standalone package, empowering users to build explainable, data-driven models with just a few clicks, making advanced autonomy accessible to all. 
